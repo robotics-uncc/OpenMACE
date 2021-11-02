@@ -25,7 +25,7 @@
       <Parameter Name="Version">V2</Parameter>
     </Parameter>
 	<Parameter Name="UDPParameters">
-      <Parameter Name="ListenAddress">127.0.0.1</Parameter>
+      <Parameter Name="ListenAddress">10.16.10.190</Parameter>
       <Parameter Name="ListenPortNumber">14551</Parameter>
     </Parameter>
     <Parameter Name="ModuleParameters">
@@ -272,7 +272,7 @@
   <Module Class="GroundStation" Type="NASAPhase2">
 	<Parameter Name="ID">1</Parameter>
 	<Parameter Name="MACEComms">
-		<Parameter Name="GUIHostAddress">127.0.0.1</Parameter>
+		<Parameter Name="GUIHostAddress">10.16.10.190</Parameter>
 		<Parameter Name="ListenPort">8082</Parameter>
 		<Parameter Name="SendPort">8080</Parameter>
 	</Parameter>
